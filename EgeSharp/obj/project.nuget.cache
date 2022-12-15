@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hv3mi7D8dhOtXmScOYbBG8km9SS+ZdBv+5yeS16U27yT5qIQFi/fXvO+kK8UW/37GWh+FRCENvwothK34gPxHg==",
+  "success": true,
+  "projectFilePath": "D:\\repos\\EgeSharp\\EgeSharp\\EgeSharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Efe\\.nuget\\packages\\mathnet.numerics\\5.0.0\\mathnet.numerics.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

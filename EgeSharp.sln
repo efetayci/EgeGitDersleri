@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EgeSharp", "EgeSharp\EgeSharp.csproj", "{514E3FF2-3849-447A-A0E9-D7E44965964E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{514E3FF2-3849-447A-A0E9-D7E44965964E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{514E3FF2-3849-447A-A0E9-D7E44965964E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{514E3FF2-3849-447A-A0E9-D7E44965964E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{514E3FF2-3849-447A-A0E9-D7E44965964E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4BA0FB17-1FBF-469B-9C99-F3EC057EB7AA}
+	EndGlobalSection
+EndGlobal
